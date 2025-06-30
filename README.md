@@ -45,4 +45,24 @@ This project explores global population trends using publicly available data fro
 ---
 
 ## 📂 Folder Structure
+📦 population-visualization
+├── 📄 README.md
+├── 📊 population_analysis.ipynb
+├── 📈 output_charts/
+│ └── (Optional: saved PNG images of the plots)
+└── 📁 data/
+└── API_SP.POP.TOTL_DS2_en_csv_v2_127006.csv
+
+
+
+---
+
+## 🧠 Insights & Learnings
+
+- India surpassed China in population in 2023.
+- Africa and South Asia show rapid population growth.
+- Some small countries saw over 600% growth since 1960.
+- Global population has more than tripled from 3B (1960) to over 8B (2023).
+
+
 
